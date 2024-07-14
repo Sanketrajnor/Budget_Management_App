@@ -1,5 +1,12 @@
 # Budget_Management_App
+
 Analyze your daily transaction with total balance, total credits, total debits, add transaction with category type, analyze it with different charts and track your daily transactions through calender
+
+# Workflow of App (flowchart) 
+URL : 
+https://app.diagrams.net/tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSanketrajnor%2FBudget_Management_App%2Fmain%2Flib%2FUntitled%2520Diagram.drawio
+
+
 ![1719401458304](https://github.com/Sanketrajnor/Budget_Management_App/assets/107184559/0d3e81e2-7097-47ad-bd0e-545ac7ccc598)
 ![1719401458297](https://github.com/Sanketrajnor/Budget_Management_App/assets/107184559/325b84c9-ae8d-4e49-88d3-c3ad3bad0000)
 ![1719401458292](https://github.com/Sanketrajnor/Budget_Management_App/assets/107184559/05716846-2280-453a-8225-cbc4ec8d5e78)
