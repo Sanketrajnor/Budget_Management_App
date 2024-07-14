@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# budget_tracker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-=======
->>>>>>> 0397838090a3b60b0768cb9b913c541fff8370a6
 # Budget_Management_App
 Analyze your daily transaction with total balance, total credits, total debits, add transaction with category type, analyze it with different charts and track your daily transactions through calender
 ![1719401458304](https://github.com/Sanketrajnor/Budget_Management_App/assets/107184559/0d3e81e2-7097-47ad-bd0e-545ac7ccc598)
