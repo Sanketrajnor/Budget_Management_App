@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:budget_tracker/charts/pie_chart.dart';
-import 'package:budget_tracker/charts/bar_chart.dart';  
+import 'package:budget_tracker/charts/line_chart.dart';  
 import 'package:budget_tracker/services/trans_anal_serv.dart';
 
 class AnalysisScreen extends StatefulWidget {
@@ -52,15 +52,16 @@ class _AnalysisScreenState extends State<AnalysisScreen> with SingleTickerProvid
                   children: [
                     Padding(padding: EdgeInsets.only(top: 10)),
                     Text(
-                      "Compare Daily Credits & Debits",
+                      "Monthwise Credit & Debit 2024",
                       style: TextStyle(fontSize: 15, fontWeight: FontWeight.w500),
                     ),
                     SizedBox(
-                      height: 300, // Define a fixed height for the bar chart
-                      child: BarChartSample(
+                      height: 300, // Define a fixed height for the line chart
+                      child: LineChartSample(
                         transactions: transactions!['credits']!.followedBy(transactions!['debits']!).toList(),
                       ),
                     ),
+
                     Container(
                       color: Colors.white,
                       child: TabBar(
